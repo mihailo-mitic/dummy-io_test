@@ -1,0 +1,12 @@
+section {
+  border-width: 2px;
+  border-style: dotted;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 5px;
+  color: black;
+}
+
+section:hover {
+  background-color: rgb(177, 177, 177);
+}
